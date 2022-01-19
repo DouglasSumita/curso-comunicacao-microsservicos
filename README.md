@@ -1,6 +1,10 @@
-# Curso Comunicacao entr Microsservicos com API REST, Java 11, Spring Boot, PostgreSQL, Javascript ES6, Node.js, MongoDB, RabbitMQ, JWT, Docker e Heroku 
+# Curso Comunicacao entre Microsservicos 
 
 <b> Skils utilizadas nesse curso: </b>
+
+* API REST, Java 11, Spring Boot, PostgreSQL, Javascript ES6, Node.js, MongoDB, RabbitMQ, JWT, Docker e Heroku 
+
+<b> Tarefas: </b>
 
 * Comunicação síncrona entre serviços utilizando chamadas de API REST
 * Comunicação assíncrona entre serviços utilizando AMQP com RabbitMQ e fila de mensagens
